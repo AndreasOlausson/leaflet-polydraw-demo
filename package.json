@@ -7,10 +7,10 @@
     "build": "vite build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["leaflet", "polydraw", "typescript", "vite", "demo", "mapping", "polygon-drawing"],
+  "author": "andreasolausson",
   "license": "ISC",
-  "description": "",
+  "description": "A simple demonstration of the Leaflet Polydraw plugin using TypeScript and Vite for interactive polygon drawing on maps",
   "dependencies": {
     "leaflet": "^1.9.4",
     "leaflet-polydraw": "^0.8.5"
