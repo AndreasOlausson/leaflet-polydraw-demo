@@ -1,5 +1,6 @@
 import * as L from 'leaflet';
 import Polydraw from 'leaflet-polydraw';
+import 'leaflet-polydraw/dist/leaflet-polydraw.css';
 
 
 
