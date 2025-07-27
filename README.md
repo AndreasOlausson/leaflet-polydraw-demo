@@ -16,11 +16,16 @@ npm install
 
 ### Usage
 
+**Development:**
 ```bash
+npm install
 npm start
 ```
 
 This will start a development server at `http://localhost:5173` where you can view the demo.
+
+**Quick Demo:**
+The `dist/` folder contains a pre-built version of the demo. You can directly copy its contents to any web server to see the working demo immediately.
 
 ### Dependencies
 
