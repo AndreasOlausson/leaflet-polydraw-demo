@@ -21,7 +21,7 @@
   "description": "A simple demonstration of the Leaflet Polydraw plugin using TypeScript and Vite for interactive polygon drawing on maps",
   "dependencies": {
     "leaflet": "^1.9.4",
-    "leaflet-polydraw": "^0.9.0"
+    "leaflet-polydraw": "^0.9.1"
   },
   "devDependencies": {
     "@types/leaflet": "^1.9.20",
